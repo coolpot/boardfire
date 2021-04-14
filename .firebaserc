@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "devkan-d195c": {
+      "hosting": {
+        "angcourse": [
+          "devkan-d195c"
+        ]
+      }
+    }
+  }
+}
